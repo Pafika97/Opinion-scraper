@@ -1,0 +1,3 @@
+opinion_clob_sdk
+pandas
+openpyxl
